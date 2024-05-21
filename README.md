@@ -70,12 +70,13 @@ cv2.destroyAllWindows()
 
 ### Input Image
 
-![](o1.png)
+![seki](https://github.com/pavankishore-AIDS/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/94154941/68b66409-2618-49b0-b7f3-0ac4bc7114d5)
+
 
 
 ### Grayscale Image
 
-![](o2.png)
+![ss2](https://github.com/pavankishore-AIDS/PCA---Mini-Project-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD/assets/94154941/4f6ae76e-d7d2-4cd1-8b35-756038c1de67)
 
 
 ## Result:
